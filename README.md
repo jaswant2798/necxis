@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+##Click on Create Button
+to create post
+to upload image of less than 5mb 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
